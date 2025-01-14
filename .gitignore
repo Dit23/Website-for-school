@@ -1,0 +1,29 @@
+# Node.js dependencies (if using Node.js or build tools like npm)
+node_modules/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.idea/           # IntelliJ IDEA
+.vscode/         # Visual Studio Code settings
+*.swp            # Vim swap files
+
+# Build files (if using build tools)
+dist/            # Output directory for builds
+build/
+
+# Compiled CSS (if using preprocessors like Sass or Less)
+*.css.map        # Source maps
+*.scssc          # Compiled SCSS files
+
+# Environment files
+.env             # Environment variables (e.g., API keys)
