@@ -20,6 +20,10 @@ header {
     padding: 0;
 }
 
+.li  {
+    text-margin: 100px;
+}
+
 .nav-links li {
     margin: 0 15px;
 }
@@ -27,6 +31,10 @@ header {
 .nav-links a {
     color: #fff;
     text-decoration: none;
+}
+
+.chapter-links li {
+    margin-left: 140px;
 }
 
 .logo {
@@ -39,8 +47,13 @@ main {
     padding: 20px;
 }
 
-section {
+.alignCenter {
     margin-bottom: 20px;
+    text-align: center;
+}
+
+.marginLeft {
+    margin-left: 140px
 }
 
 footer {
@@ -49,4 +62,7 @@ footer {
     color: #fff;
     padding: 10px 0;
     margin-top: 20px;
+}
+.table {
+    margin-left: 170px; /* Offset the table */
 }
