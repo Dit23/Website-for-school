@@ -1,3 +1,3 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=900&size=50&duration=800&pause=1&color=30903AB3&background=171E2C31&center=true&multiline=true&repeat=false&width=1000&height=70&lines=A+Website+for+school)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=900&duration=3500&pause=1&color=30903AB3&background=171E2C31&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=70&lines=A+Website+for+a+school+project.+It's+about+mental+health+and+stuff.;it's+in+early+development%2C+so+expect+the+code+being+stale+and+unpolished.)](https://git.io/typing-svg)
+# Website-for-school
+A Website for a school project. It's about mental health and stuff
+it's in early development, so expect the code being stale, the website boring and everything basically bad.
