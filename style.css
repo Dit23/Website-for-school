@@ -1,4 +1,9 @@
 
+:root {
+    --bg-color: #3c4357;
+    --bg-colorBeta: #353c46;
+}
+    
 * {
     margin: 0;
     padding: 0;
@@ -6,20 +11,24 @@
   }
 
 
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: var(--bg-color);
     color: #333;
 }
 
 header {
     background: #333;
     color: #fff;
+    background-color: var(--bg-colorBeta);
     padding: 1rem 0;
+}
+
+footer {
+    background-color: var(--bg-colorBeta);
 }
 
 .image-section {
@@ -36,8 +45,6 @@ header {
     /* align-items: center; /*Optional: vertical centering */
     justify-content: baseline;
   }
-
-
   
 .nav-links {
     list-style: none;
@@ -58,8 +65,6 @@ header {
     color: #fff;
     text-decoration: none;
 }
-
-
 
 .logo {
     display: block;
@@ -91,14 +96,6 @@ footer {
 table {
     width: 99%
     
-}
-
-.backgroundColor{
-    background-color: #3c4357;
-}
-
-.backgroundColorBeta{
-    background-color: #353c46;
 }
 
 .generalTextColor{
